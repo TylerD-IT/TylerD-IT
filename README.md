@@ -82,5 +82,5 @@ My journey in Information Technology has created a deep passion for cybersecurit
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/TylerD-IT/Splunk-Active-Directory-Lab">Splunk & Active Directory Lab</a>
+
