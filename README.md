@@ -28,6 +28,15 @@ My journey in Information Technology has created a deep passion for cybersecurit
 
 ## Tools
 
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SentinelOne-5C2D91?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tanium-EB1C2D?&style=for-the-badge&logo=Tanium&logoColor=white" />
+
+
+</div>
+
 
 ### Network
 <div>
@@ -39,32 +48,27 @@ My journey in Information Technology has created a deep passion for cybersecurit
    
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SentinelOne-5C2D91?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tanium-EB1C2D?&style=for-the-badge&logo=Tanium&logoColor=white" />
 
-
-</div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic%20Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 
-### EDR
-<div>
-     <img src="https://img.shields.io/badge/-SentinelOne-5C2D91?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
 
-  
-</div>
 
 ### IDS/IPS
 <div> 
     <img src="https://img.shields.io/badge/-F5%20BIG--IP-DC172A?&style=for-the-badge&logo=F5&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-E0001B?&style=for-the-badge&logo=Snort&logoColor=white" />
 
+
+  
+</div>
+
+### EDR
+<div>
+     <img src="https://img.shields.io/badge/-SentinelOne-5C2D91?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
 
   
 </div>
