@@ -53,6 +53,13 @@ My journey in Information Technology has created a deep passion for cybersecurit
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic%20Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 
+### EDR
+<div>
+     <img src="https://img.shields.io/badge/-SentinelOne-5C2D91?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
+
+  
+</div>
+
 ### IDS/IPS
 <div> 
     <img src="https://img.shields.io/badge/-F5%20BIG--IP-DC172A?&style=for-the-badge&logo=F5&logoColor=white" />
