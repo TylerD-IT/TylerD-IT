@@ -12,7 +12,7 @@ I serve as an IT Security Specialist and Manager for the Cybersecurity team of t
 ## Objective
 
 
-My journey in Information Technology has created a deep passion for cybersecurity, driving my eagerness to grow as a professional. I am committed to continuous learning and skill development and aspire to advance into a larger Security Operations Center (SOC) that leverages the latest technology.
+My journey in Information Technology has created a major passion for cybersecurity, driving me to grow as a professional. I am committed to continuous learning and skill development and aspire to advance into a larger Security Operations Center (SOC) that uses the latest technology.
 
 ## Skills
 
