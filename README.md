@@ -19,7 +19,7 @@ My journey in Information Technology has created a deep passion for cybersecurit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/TylerD-IT/Splunk-Active-Directory-Lab">Splunk & Active Directory Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/TylerD-IT/Splunk-Lab">Splunk & Active Directory Lab</a>|
 
 
 
@@ -82,5 +82,5 @@ My journey in Information Technology has created a deep passion for cybersecurit
 </div>
 
 ## Projects
-- <a href="https://github.com/TylerD-IT/Splunk-Active-Directory-Lab">Splunk & Active Directory Lab</a>
+- <a href="https://github.com/TylerD-IT/Splunk-Lab">Splunk & Active Directory Lab</a>
 
