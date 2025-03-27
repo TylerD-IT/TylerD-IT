@@ -28,6 +28,7 @@ My journey in Information Technology has created a major passion for cybersecuri
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable-008080?style=for-the-badge&logo=Tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-0033A0?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-SentinelOne-5C2D91?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tanium-EB1C2D?&style=for-the-badge&logo=Tanium&logoColor=white" />
