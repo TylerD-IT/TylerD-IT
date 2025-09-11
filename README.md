@@ -5,7 +5,7 @@
 
 
 
-I serve as an Information Security Manager for the cybersecurity team of the State of Montana's Judiciary Network.
+I serve as an IT Security Specialist for the State of Montana's Judiciary Branch.
 
 
 
