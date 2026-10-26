@@ -5,7 +5,7 @@
 
 
 
-I serve as an IT Security Specialist for the State of Montana's Judicial Branch.
+I serve as a Security Engineer for Sentinel Technologies.
 
 
 
